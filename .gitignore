@@ -1,0 +1,28 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment directory
+venv/
+env/
+ENV/
+
+# Streamlit configurations
+.streamlit/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Editor-specific files (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency directories (if using other package managers)
+node_modules/
+
